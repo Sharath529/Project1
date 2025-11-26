@@ -8,5 +8,5 @@ The objective of this report is to analyze employee attrition, identify the key 
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snap](C:\Users\sharu\OneDrive\Pictures\Screenshots\Screenshot 2025-11-26 214824.png)
+![dashboard_snap]
 
