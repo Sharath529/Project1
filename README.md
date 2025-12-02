@@ -102,4 +102,4 @@ Introduce career development programs, mentorship initiatives, or skill-enhancem
 Continuously track attrition metrics and evaluate the impact of implemented retention strategies over time.
 
 
-# By leveraging these insights, businesses can reduce employee attrition, enhance workforce satisfaction, and build a more sustainable and productive workplace.
+## By leveraging these insights, businesses can reduce employee attrition, enhance workforce satisfaction, and build a more sustainable and productive workplace.
